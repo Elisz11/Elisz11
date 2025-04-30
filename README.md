@@ -1,5 +1,5 @@
 ## About me
-- Hi, i'm Eli. I'm a developer.
+- Hi, I'm Eli. I'm a developer.
 ### Languages i know:
 - HTML
 - CSS
