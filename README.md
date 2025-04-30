@@ -1,6 +1,6 @@
 ## About me
 - Hi, i'm Eli. I'm a developer.
-### LAanguages i know:
+### Languages i know:
 - HTML
 - CSS
 ### Languages I'm learning:
