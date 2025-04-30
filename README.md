@@ -1,6 +1,6 @@
 ## About me
 - Hi, I'm Eli. I'm a developer.
-- ![](https://komarev.com/ghpvc/?username=elisz11&abbreviated=true&color=white)
+- ![](https://komarev.com/ghpvc/?username=elisz11&abbreviated=true&color=gray)
 ### Languages i know:
 - HTML
 - CSS
