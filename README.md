@@ -1,11 +1,11 @@
-## ABOUT ME
+## About me
 - Hi, i'm Eli. I'm a developer.
-### LANGUAGES I KNOW:
+### LAanguages i know:
 - HTML
 - CSS
-### LANGUAGES I'M LEARNING
+### Languages I'm learning:
 - JavaScript
 - Python
-## MY PROJECTS
+## My projects:
 - [My Website](https://github.com/elisz11/elisz11.com)
 - [Discord bot for Minecraft servers](https://github.com/Elisz11/Discord-Bot-for-Minecraft-Server-Status)
